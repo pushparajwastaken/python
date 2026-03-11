@@ -98,7 +98,7 @@ if __name__ == "__main__":
     main()
 
 conn.close()
-    main()
+main()
 
 conn.close()
 
