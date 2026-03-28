@@ -1,0 +1,20 @@
+Date: 28/3/2026
+Time: 14:34
+Phone Number: +916264832348
+Message: Test
+--------------------
+Date: 28/3/2026
+Time: 14:37
+Phone Number: +91 9301833822python -u "c:\Users\Asus\Videos\python\Automation\3. Whatsapp\wp.py"
+Message: Test
+--------------------
+Date: 28/3/2026
+Time: 14:37
+Phone Number: +91 9301833822
+Message: Message not sent from whatsapp but from a python script,Take Care,Love you
+--------------------
+Date: 28/3/2026
+Time: 14:39
+Phone Number: +91 9301833822
+Message: Test Message
+--------------------
